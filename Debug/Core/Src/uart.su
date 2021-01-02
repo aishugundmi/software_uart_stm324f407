@@ -1,0 +1,5 @@
+uart.c:11:6:HAL_GPIO_EXTI_Callback	24	static
+uart.c:47:6:delay_9600	4	static
+uart.c:64:6:half_delay_9600	4	static
+uart.c:80:6:uart_tx	24	static
+uart.c:105:6:uart_print_string	16	static
